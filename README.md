@@ -105,14 +105,10 @@ This project requires the following libraries, which are automatically installed
 ## Example Plots
 
 ### Stock Price with Moving Averages
-![Stock Price and Moving Averages]
 
 ### Bollinger Bands
-![Bollinger Bands]
 
 ### MACD and RSI
-![MACD and RSI]
-
 ---
 
 ## License
