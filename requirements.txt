@@ -1,0 +1,6 @@
+streamlit==1.16.0
+plotly==5.10.0
+yfinance==0.2.18
+pandas==2.0.0
+matplotlib==3.7.1
+statsmodels==0.14.0
